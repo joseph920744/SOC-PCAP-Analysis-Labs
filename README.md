@@ -43,6 +43,6 @@ Download the full report: [SOC4_Investigation_Report.docx](./SOC4_Investigation_
 ---
 
 ## About
-**Analyst:** Jude (Paulson K Babu)
+**Analyst:** Paulson K Babu
 **Background:** BCA + MCA | Cybersecurity — SOC Analyst Track
-**LinkedIn:** [your linkedin url here]
+**LinkedIn:** [www.linkedin.com/in/paulson-babu-472563215]
